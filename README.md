@@ -12,7 +12,7 @@ In this project, four folders have been created, each containing the code for a 
 
 **Character_network**: This folder contains the code for creating an intricate character network using Spacy's NER model, NetworkX, and PyViz.
 
-![network_image](images\char_network.png)
+![network_image](images/char_network.png)
 
 
 
