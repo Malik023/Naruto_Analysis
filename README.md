@@ -8,7 +8,7 @@ Welcome, fellow shinobi! This project explores the world of Naruto anime through
 ## Overview
 In this project, four folders have been created, each containing the code for a different part of the project:
       
-**Crawler**: This folder contains the code for web scraping the internet to build a comprehensive dataset about the anime using Scrapy.
+**Crawler**:  This folder contains the code for web scraping the Naruto Fan Wiki using Scrapy and BeautifulSoup to build a comprehensive dataset about the anime.
 
 **Character_network**: This folder contains the code for creating an intricate character network using Spacy's NER model, NetworkX, and PyViz.
 
@@ -40,4 +40,7 @@ You can install these packages using pip or conda.
 ## Usage
 To use this project, simply clone this repository to your local machine and navigate to the folder for the part of the project that you are interested in. Each file contains detailed comments so that you can understand the flow of the code.
 
-So, fellow shinobi, grab your ninja headband and unleash your inner Hokage by exploring the world of Naruto anime through data science!
+
+Hope you enjoy an exciting journey through the Naruto universe! Dive deep into the realm of jutsus and uncover fascinating insights about the ninja world. 
+
+
